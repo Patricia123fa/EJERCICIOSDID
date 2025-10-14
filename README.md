@@ -1,2 +1,0 @@
-# EJERCICIOSDID
-Ejercicios JavaScript

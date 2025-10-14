@@ -6,7 +6,7 @@ console.log(nombre);
 
 //ejercicio 2
 const PI= 3.1416;
-console.log(pi);
+console.log(PI);
 
 //ejercicio 3
 let edad;

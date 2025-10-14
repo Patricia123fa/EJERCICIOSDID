@@ -7,11 +7,19 @@ function saludar(nombre){
 saludar(nombre);
 
 //ejercicio 2
-function sumar = (a,b) => a+b;
-console.log(sumar (3,4));
+function sumar(a, b) {
+  return a + b;
+}
+console.log(sumar(3, 4));
+
 
 //ejercicio 3
-function multiplicar = (a,b) => a*b;
+const multiplicar = (a,b) => a*b;
 console.log (multiplicar(3,4));
 
 //ejercicio 4
+function esMayorEdad(edad) {
+  return edad >= 18;
+}
+
+console.log(esMayorEdad(20));
